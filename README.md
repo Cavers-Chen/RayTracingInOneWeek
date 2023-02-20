@@ -28,3 +28,25 @@ This is the code I used when I first learned global illumination in computer gra
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture10.jpg" width="50%">
 
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p1.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P5_1.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P5_2.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P5_3.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P5_4.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P5_5.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P6.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P7.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P7_2.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P7_3.png" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/P7_4.png" width="50%">
